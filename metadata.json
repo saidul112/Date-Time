@@ -1,0 +1,7 @@
+{
+  "name": "7-Eleven Staff Time Tracker (JP)",
+  "description": "A specialized time tracking platform for 7-Eleven Japan stores with manual entry and native-feel UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
